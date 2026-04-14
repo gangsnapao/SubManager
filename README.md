@@ -1,4 +1,7 @@
 # Subscription Manager - 订阅管理工具
+<img width="2449" height="1235" alt="Capso Screenshot 2026-04-14 at 14 46 16" src="https://github.com/user-attachments/assets/fd97cb51-9ef2-44a7-8b10-2dfd5e4e630f" />
+<img width="2386" height="1207" alt="Capso Screenshot 2026-04-14 at 14 46 05" src="https://github.com/user-attachments/assets/f5bf32cf-99b8-48fc-91e2-9b0b3113ec65" />
+<img width="2386" height="1207" alt="Capso Screenshot 2026-04-14 at 14 45 59" src="https://github.com/user-attachments/assets/56d917b7-3db7-4e11-8429-d02aced1ec0b" />
 
 帮助个人用户统一管理各类在线服务订阅，记录费用、到期时间，统计分析支出。
 
